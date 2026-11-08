@@ -1,16 +1,50 @@
-## Hi there 👋
+# Heyyyy, I'm Dudu! 👋 (Dudu Tsuyone)
 
-<!--
-**DuduTSN/DuduTSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+I am a **voice synthesis enthusiast** from Portugal, dedicated to **creating and configuring voicebanks**. I explore everything from traditional vocal software to the latest AI-driven models to bring new virtual singers and speakers to life.
+
+I am proud to be a member of the **UniverStars** group! ✨
+And I created "Tsuyone Dudu (強音ドゥドゥ)"
+
+---
+
+### 🛠️ Technologies & Voice Models
+
+Here are the software ecosystems and models I actively work with, split between AI model training and traditional configuration/development:
+
+#### 🤖 AI Training
+* **DiffSinger** (Diffusion-based acoustic models)
+* **NNSVS / ENUNU** (Neural network-based vocal synthesis)
+* **MY COEIROINK** (Custom voice creation for talk/singing)
+* **RVC** (Retrieval-based Voice Conversion)
+
+#### 🎵 Configuration & Production
+* **VOCALOID**
+* **UTAU** (Otoing and parameter configuration)
+* **Synthesizer V R1**
+* **DeepVocal**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</div>
+
+---
+
+### 📬 Let's Connect!
+
+Feel free to explore my repositories or reach out to discuss anything about voice synthesis!
+
+[<img src="https://shields.io" />](https://discord.com/users/922103893410840576)
+[<img src="https://shields.io" />](https://youtube.com/@dudutsuyone?si=FVrhoBcZURkpdaab)
